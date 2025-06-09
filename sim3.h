@@ -1,7 +1,7 @@
 
 /*
 Define 3 value 0,1,X in bit level, for simulation.
-@Arthor: Jingren Wang
+@Author: Jingren Wang
 @Date: 10/06/2025
 
 This is a simple demo for encoded 3 value simulation.
